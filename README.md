@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Challange Web](https://your-solution-url.com)
+- Solution URL: [Challange Web](https://www.frontendmentor.io/solutions/ordersummarycomponent-flexbox-bem-VOPLIGlhO)
 - Live Site URL: [Live Web](https://brkcln.github.io/order-summary-component)
 
 ### Built with
